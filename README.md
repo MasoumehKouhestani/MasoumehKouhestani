@@ -12,21 +12,6 @@
 
 ## Hi there 👋
 
-<!--
-**MasoumehKouhestani/MasoumehKouhestani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -36,9 +21,9 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
-- :telescope: I have worked as a Software Engineer and contributing to backend for building web applications with Java and Spring Boot.
+- :telescope: I have worked as a Software Engineer and contributed to backend for building web applications with Java and Spring Boot.
 - :seedling: I am lokking for a software engineer postion with Java, Python or GoLang stack.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/masoumeh-kouhestani/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/masoumeh-kouhestani/)
 
 ---
 
