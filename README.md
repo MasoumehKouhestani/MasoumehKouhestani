@@ -11,7 +11,6 @@
 <img src="https://komarev.com/ghpvc/?username=MasoumehKouhestani&style=flat-square&color=blue" alt=""/>
 
 ## Hi there 👋
----
 
 ### :woman_technologist: About Me :
 
