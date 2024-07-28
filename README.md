@@ -16,7 +16,7 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 - :telescope: I have worked as a Software Engineer and contributed to backend for building web applications with Java and Spring Boot.
-- :seedling: I am lokking for a software engineer postion with Java, Python or GoLang stack.
+- :seedling: I am looking for a software engineer postion with Java, Python or GoLang stack.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/masoumeh-kouhestani/)
 
 ---
